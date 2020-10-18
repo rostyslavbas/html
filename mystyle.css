@@ -1,0 +1,18 @@
+.myfirst{
+    background-color: rgba(red 200, green 220, blue 100, alpha 0.4)
+    display: inline-block;}
+p{ color: rgb(24, 10, 10);
+display: inline-block;
+background-color: rgb(132, 10, 163);}
+img{
+    display: inline-block;
+    border-radius: 5%;
+    width: 750px;
+    height: 500px;}
+div{background-color: rgba(49, 0, 185, 0.315);
+display: inline-block;}
+h1{color: rgb(236, 0, 0);
+size: 4px;}
+h2{color: rgb(65, 22, 100);}
+li{color: whitesmoke;}
+h3{color: wheat}
